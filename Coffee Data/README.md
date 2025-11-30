@@ -15,7 +15,8 @@ A total of 20 tasks were completed using heatmaps, bar charts, scatter plots, bo
 8. Average marketing for area codes 660 & 818.
 9. Highest & lowest profit products in California.
 10. Minimum marketing for Coffee Beans Colombian.
-11–12. Decaf sales contribution in East market (overall & 2012).
+11. Sales contribution of Decaf in East market.
+12. 2012 sales contribution of Decaf in East market.
 13. Average profit for products starting with ‘C’.
 14. Top 5 products by sales in Central region.
 15. 2013 highest profit state in West market.
